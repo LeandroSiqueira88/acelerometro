@@ -73,7 +73,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
 
     override fun onResume() {
         super.onResume()
-        // Você pode iniciar automaticamente ou não
-        // startSensor()
+        
     }
 }
